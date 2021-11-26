@@ -1,0 +1,3086 @@
+[
+ {
+  "timestamp": 1637915688640,
+  "tid": "8198490",
+  "amount": "0.95494078",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915688596,
+  "tid": "8198489",
+  "amount": "0.00104585",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915688563,
+  "tid": "8198488",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915672254,
+  "tid": "8198487",
+  "amount": "0.29790772",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915671730,
+  "tid": "8198486",
+  "amount": "0.8102238",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915665352,
+  "tid": "8198485",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915659962,
+  "tid": "8198484",
+  "amount": "0.956",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915655833,
+  "tid": "8198483",
+  "amount": "0.0788",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915655452,
+  "tid": "8198482",
+  "amount": "0.0002909",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915654910,
+  "tid": "8198481",
+  "amount": "0.504",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915654190,
+  "tid": "8198480",
+  "amount": "0.0792",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915653730,
+  "tid": "8198479",
+  "amount": "0.0792",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915653359,
+  "tid": "8198478",
+  "amount": "0.0792",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915643885,
+  "tid": "8198477",
+  "amount": "0.01808349",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915642629,
+  "tid": "8198476",
+  "amount": "0.0791",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915638430,
+  "tid": "8198475",
+  "amount": "0.0791",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915634068,
+  "tid": "8198474",
+  "amount": "0.69416335",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915633977,
+  "tid": "8198473",
+  "amount": "0.09105093",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915606754,
+  "tid": "8198472",
+  "amount": "0.127771302081564864",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915606720,
+  "tid": "8198471",
+  "amount": "0.181939",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915606689,
+  "tid": "8198470",
+  "amount": "0.931",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915606657,
+  "tid": "8198469",
+  "amount": "0.21591176",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915606619,
+  "tid": "8198468",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915572822,
+  "tid": "8198467",
+  "amount": "0.01295862",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915572784,
+  "tid": "8198466",
+  "amount": "0.0015",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915526483,
+  "tid": "8198465",
+  "amount": "0.40856933",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915458394,
+  "tid": "8198464",
+  "amount": "0.26182253",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915458354,
+  "tid": "8198463",
+  "amount": "0.10068564",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915408636,
+  "tid": "8198462",
+  "amount": "0.02560256",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915408601,
+  "tid": "8198461",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915384437,
+  "tid": "8198460",
+  "amount": "0.01448611",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915383200,
+  "tid": "8198459",
+  "amount": "0.17329229",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915381559,
+  "tid": "8198458",
+  "amount": "0.29543005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915379473,
+  "tid": "8198457",
+  "amount": "0.0869",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915375099,
+  "tid": "8198456",
+  "amount": "0.08693944",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915375065,
+  "tid": "8198455",
+  "amount": "0.06031207",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915375028,
+  "tid": "8198454",
+  "amount": "0.0016",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915349348,
+  "tid": "8198453",
+  "amount": "0.01295831",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915343901,
+  "tid": "8198452",
+  "amount": "0.205405405405405405",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915343621,
+  "tid": "8198451",
+  "amount": "0.04266644",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915343535,
+  "tid": "8198450",
+  "amount": "0.1657",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915343446,
+  "tid": "8198449",
+  "amount": "0.07951591",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915328910,
+  "tid": "8198448",
+  "amount": "0.01840832",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915326987,
+  "tid": "8198447",
+  "amount": "0.0313",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915326638,
+  "tid": "8198446",
+  "amount": "0.55291622",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915326575,
+  "tid": "8198445",
+  "amount": "0.00008378",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915326446,
+  "tid": "8198444",
+  "amount": "0.5534",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915326043,
+  "tid": "8198443",
+  "amount": "0.00001622",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915324698,
+  "tid": "8198442",
+  "amount": "0.02643555",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915322844,
+  "tid": "8198441",
+  "amount": "0.03777601",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915319256,
+  "tid": "8198440",
+  "amount": "0.05238135",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915319221,
+  "tid": "8198439",
+  "amount": "0.0016",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915317209,
+  "tid": "8198438",
+  "amount": "0.0796",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915315272,
+  "tid": "8198437",
+  "amount": "0.0949",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915309635,
+  "tid": "8198436",
+  "amount": "0.774804905239687848",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915309501,
+  "tid": "8198435",
+  "amount": "0.00000029",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915309468,
+  "tid": "8198434",
+  "amount": "0.78792",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915309068,
+  "tid": "8198433",
+  "amount": "0.04620195",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915307754,
+  "tid": "8198432",
+  "amount": "0.0418",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915306996,
+  "tid": "8198431",
+  "amount": "0.0794",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915306593,
+  "tid": "8198430",
+  "amount": "0.0794",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915305988,
+  "tid": "8198429",
+  "amount": "0.05",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915305954,
+  "tid": "8198428",
+  "amount": "0.1",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915302168,
+  "tid": "8198427",
+  "amount": "0.01745535",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915302132,
+  "tid": "8198426",
+  "amount": "0.01899696",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915302097,
+  "tid": "8198425",
+  "amount": "0.01898974",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915302060,
+  "tid": "8198424",
+  "amount": "0.5695842",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915302025,
+  "tid": "8198423",
+  "amount": "0.006",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301985,
+  "tid": "8198422",
+  "amount": "0.02846299",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301955,
+  "tid": "8198421",
+  "amount": "3",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301924,
+  "tid": "8198420",
+  "amount": "0.56893609",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301893,
+  "tid": "8198419",
+  "amount": "0.30772758",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301862,
+  "tid": "8198418",
+  "amount": "0.07951591",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301826,
+  "tid": "8198417",
+  "amount": "1",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915301786,
+  "tid": "8198416",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915271624,
+  "tid": "8198415",
+  "amount": "0.01676174",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915270651,
+  "tid": "8198414",
+  "amount": "0.015778726563950251",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915270501,
+  "tid": "8198413",
+  "amount": "0.00009326",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915270466,
+  "tid": "8198412",
+  "amount": "0.2622",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915264621,
+  "tid": "8198411",
+  "amount": "0.26229326",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915264587,
+  "tid": "8198410",
+  "amount": "0.03870225",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915250686,
+  "tid": "8198409",
+  "amount": "0.06463634",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915240900,
+  "tid": "8198408",
+  "amount": "0.00009427",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915238604,
+  "tid": "8198407",
+  "amount": "0.0525",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915236029,
+  "tid": "8198406",
+  "amount": "0.02787196",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915235907,
+  "tid": "8198405",
+  "amount": "0.07981597",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915235602,
+  "tid": "8198404",
+  "amount": "0.07981597",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915235561,
+  "tid": "8198403",
+  "amount": "0.1959",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915227745,
+  "tid": "8198402",
+  "amount": "0.43599817",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227702,
+  "tid": "8198401",
+  "amount": "0.03620183",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227459,
+  "tid": "8198400",
+  "amount": "0.33550574",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227417,
+  "tid": "8198399",
+  "amount": "0.5",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227381,
+  "tid": "8198398",
+  "amount": "0.1",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227345,
+  "tid": "8198397",
+  "amount": "0.00945537",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227309,
+  "tid": "8198396",
+  "amount": "0.0015",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227269,
+  "tid": "8198395",
+  "amount": "0.00944822",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227231,
+  "tid": "8198394",
+  "amount": "0.00009067",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915227185,
+  "tid": "8198393",
+  "amount": "0.06942549",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915227023,
+  "tid": "8198392",
+  "amount": "0.12453392",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915226991,
+  "tid": "8198391",
+  "amount": "0.5",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915226953,
+  "tid": "8198390",
+  "amount": "0.07901905",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915226919,
+  "tid": "8198389",
+  "amount": "0.01886792",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915226881,
+  "tid": "8198388",
+  "amount": "0.01886792",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915226832,
+  "tid": "8198387",
+  "amount": "0.00132075",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915226796,
+  "tid": "8198386",
+  "amount": "0.47189044",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915225558,
+  "tid": "8198385",
+  "amount": "0.0483",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222662,
+  "tid": "8198384",
+  "amount": "0.0856",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222505,
+  "tid": "8198383",
+  "amount": "0.06249503",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222469,
+  "tid": "8198382",
+  "amount": "0.00368146",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222432,
+  "tid": "8198381",
+  "amount": "0.01061014",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222399,
+  "tid": "8198380",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222245,
+  "tid": "8198379",
+  "amount": "0.00438986",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222198,
+  "tid": "8198378",
+  "amount": "0.59247546",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222158,
+  "tid": "8198377",
+  "amount": "0.04",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222127,
+  "tid": "8198376",
+  "amount": "0.00943396",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222092,
+  "tid": "8198375",
+  "amount": "0.56603773",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915222056,
+  "tid": "8198374",
+  "amount": "0.12896299",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915221715,
+  "tid": "8198373",
+  "amount": "0.03725889",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915221666,
+  "tid": "8198372",
+  "amount": "0.03674111",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915219897,
+  "tid": "8198371",
+  "amount": "0.16571765",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915217843,
+  "tid": "8198370",
+  "amount": "0.26151021",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915212836,
+  "tid": "8198369",
+  "amount": "0.12275565",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915212468,
+  "tid": "8198368",
+  "amount": "0.00251395",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915212439,
+  "tid": "8198367",
+  "amount": "0.0094304",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915205466,
+  "tid": "8198366",
+  "amount": "0.00009345",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915205153,
+  "tid": "8198365",
+  "amount": "0.522",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915203722,
+  "tid": "8198364",
+  "amount": "0.0756",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915203664,
+  "tid": "8198363",
+  "amount": "0.03826665",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915202963,
+  "tid": "8198362",
+  "amount": "0.05732315",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915202485,
+  "tid": "8198361",
+  "amount": "0.0000102",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197480,
+  "tid": "8198360",
+  "amount": "0.00375344",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197448,
+  "tid": "8198359",
+  "amount": "0.4",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197418,
+  "tid": "8198358",
+  "amount": "0.1",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197384,
+  "tid": "8198357",
+  "amount": "0.0094091",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197351,
+  "tid": "8198356",
+  "amount": "0.37636432",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197317,
+  "tid": "8198355",
+  "amount": "0.02292013",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915197281,
+  "tid": "8198354",
+  "amount": "0.08925301",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915195632,
+  "tid": "8198353",
+  "amount": "0.03886444",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915195605,
+  "tid": "8198352",
+  "amount": "0.0032",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915195552,
+  "tid": "8198351",
+  "amount": "0.064",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915190559,
+  "tid": "8198350",
+  "amount": "0.0064",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915190166,
+  "tid": "8198349",
+  "amount": "0.00117615",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915190131,
+  "tid": "8198348",
+  "amount": "0.00940556",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915190097,
+  "tid": "8198347",
+  "amount": "0.00641829",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915188944,
+  "tid": "8198346",
+  "amount": "0.0035",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915188458,
+  "tid": "8198345",
+  "amount": "0.0461",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915187482,
+  "tid": "8198344",
+  "amount": "0.03647231",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915187451,
+  "tid": "8198343",
+  "amount": "0.54412769",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915183388,
+  "tid": "8198342",
+  "amount": "0.45587231",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915183355,
+  "tid": "8198341",
+  "amount": "0.5",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915183316,
+  "tid": "8198340",
+  "amount": "0.00012769",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915179531,
+  "tid": "8198339",
+  "amount": "0.23457001",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915179497,
+  "tid": "8198338",
+  "amount": "0.02821873",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915179463,
+  "tid": "8198337",
+  "amount": "0.07881577",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915179413,
+  "tid": "8198336",
+  "amount": "0.00008212",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915179373,
+  "tid": "8198335",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915162322,
+  "tid": "8198334",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915156255,
+  "tid": "8198333",
+  "amount": "0.0378",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915138255,
+  "tid": "8198332",
+  "amount": "0.0087897",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915138223,
+  "tid": "8198331",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915088007,
+  "tid": "8198330",
+  "amount": "0.247640199888950583",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915087972,
+  "tid": "8198329",
+  "amount": "0.06929908",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915087911,
+  "tid": "8198328",
+  "amount": "0.05884342",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915087884,
+  "tid": "8198327",
+  "amount": "0.091207",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915087841,
+  "tid": "8198326",
+  "amount": "0.158793",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915049291,
+  "tid": "8198325",
+  "amount": "0.181",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915049141,
+  "tid": "8198324",
+  "amount": "0.181939186206200697",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637915048636,
+  "tid": "8198323",
+  "amount": "0.000754913793799303",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915048598,
+  "tid": "8198322",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915048563,
+  "tid": "8198321",
+  "amount": "0.25",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915023696,
+  "tid": "8198320",
+  "amount": "1.7556",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915015943,
+  "tid": "8198319",
+  "amount": "0.1619655",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637915014351,
+  "tid": "8198318",
+  "amount": "0.57855869",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914989503,
+  "tid": "8198317",
+  "amount": "0.53730233",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914966965,
+  "tid": "8198316",
+  "amount": "0.17193179",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914966934,
+  "tid": "8198315",
+  "amount": "0.00000937",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914966076,
+  "tid": "8198314",
+  "amount": "0.020004",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914920930,
+  "tid": "8198313",
+  "amount": "0.224797",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914920726,
+  "tid": "8198312",
+  "amount": "0.222740851381628081",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914920589,
+  "tid": "8198311",
+  "amount": "0.00009734",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914920526,
+  "tid": "8198310",
+  "amount": "0.2247",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914917233,
+  "tid": "8198309",
+  "amount": "0.05092662",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914917199,
+  "tid": "8198308",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914915488,
+  "tid": "8198307",
+  "amount": "0.01808462",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914914404,
+  "tid": "8198306",
+  "amount": "0.10130933",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914910547,
+  "tid": "8198305",
+  "amount": "0.06713625",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914909057,
+  "tid": "8198304",
+  "amount": "0.0188715",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914908464,
+  "tid": "8198303",
+  "amount": "0.10857394",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914906209,
+  "tid": "8198302",
+  "amount": "0.1592198",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914906113,
+  "tid": "8198301",
+  "amount": "0.26524288",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914903078,
+  "tid": "8198300",
+  "amount": "0.02173831",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914901482,
+  "tid": "8198299",
+  "amount": "0.0266",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914901370,
+  "tid": "8198298",
+  "amount": "0.26799546",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914901329,
+  "tid": "8198297",
+  "amount": "0.006",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914901290,
+  "tid": "8198296",
+  "amount": "0.29080454",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900949,
+  "tid": "8198295",
+  "amount": "0.22881975",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900914,
+  "tid": "8198294",
+  "amount": "0.03321354",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900880,
+  "tid": "8198293",
+  "amount": "0.00938262",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900847,
+  "tid": "8198292",
+  "amount": "0.02978508",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900808,
+  "tid": "8198291",
+  "amount": "0.05493571",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900752,
+  "tid": "8198290",
+  "amount": "0.19369561",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900709,
+  "tid": "8198289",
+  "amount": "0.01416769",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900584,
+  "tid": "8198288",
+  "amount": "0.01239999",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900539,
+  "tid": "8198287",
+  "amount": "0.20819201",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900504,
+  "tid": "8198286",
+  "amount": "0.00731893",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900469,
+  "tid": "8198285",
+  "amount": "0.00680067",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900435,
+  "tid": "8198284",
+  "amount": "0.01119514",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900400,
+  "tid": "8198283",
+  "amount": "0.19283121",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914900367,
+  "tid": "8198282",
+  "amount": "0.36076205",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914896546,
+  "tid": "8198281",
+  "amount": "0.07870705",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914891052,
+  "tid": "8198280",
+  "amount": "0.017604",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914886842,
+  "tid": "8198279",
+  "amount": "0.07053912",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886801,
+  "tid": "8198278",
+  "amount": "0.00130841",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886758,
+  "tid": "8198277",
+  "amount": "0.32947981",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886579,
+  "tid": "8198276",
+  "amount": "0.0000775",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886454,
+  "tid": "8198275",
+  "amount": "0.007",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886367,
+  "tid": "8198274",
+  "amount": "0.07153823",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886334,
+  "tid": "8198273",
+  "amount": "0.0070484",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914886301,
+  "tid": "8198272",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914879228,
+  "tid": "8198271",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914872525,
+  "tid": "8198270",
+  "amount": "0.01902666",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914872493,
+  "tid": "8198269",
+  "amount": "0.1",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914872454,
+  "tid": "8198268",
+  "amount": "0.00697334",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914871892,
+  "tid": "8198267",
+  "amount": "0.03600007",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914871857,
+  "tid": "8198266",
+  "amount": "0.00009993",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914862328,
+  "tid": "8198265",
+  "amount": "0.28324672",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914862291,
+  "tid": "8198264",
+  "amount": "0.07434944",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914862253,
+  "tid": "8198263",
+  "amount": "0.04770384",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914861852,
+  "tid": "8198262",
+  "amount": "1.26335673",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914861804,
+  "tid": "8198261",
+  "amount": "0.3327",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914861763,
+  "tid": "8198260",
+  "amount": "0.102",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914861582,
+  "tid": "8198259",
+  "amount": "0.0912",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914861462,
+  "tid": "8198258",
+  "amount": "0.0995",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914859986,
+  "tid": "8198257",
+  "amount": "0.04304643",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914858302,
+  "tid": "8198256",
+  "amount": "0.37147102",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914858267,
+  "tid": "8198255",
+  "amount": "0.00163122",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914858234,
+  "tid": "8198254",
+  "amount": "0.27321272",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914858077,
+  "tid": "8198253",
+  "amount": "0.051705",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914858038,
+  "tid": "8198252",
+  "amount": "0.04593358",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914857977,
+  "tid": "8198251",
+  "amount": "0.0957",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914857873,
+  "tid": "8198250",
+  "amount": "0.0719",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914857658,
+  "tid": "8198249",
+  "amount": "0.1113",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914857563,
+  "tid": "8198248",
+  "amount": "0.10116642",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914855973,
+  "tid": "8198247",
+  "amount": "0.0799",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914855353,
+  "tid": "8198246",
+  "amount": "0.956",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914854787,
+  "tid": "8198245",
+  "amount": "0.0211",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914850281,
+  "tid": "8198244",
+  "amount": "0.88594878",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914850244,
+  "tid": "8198243",
+  "amount": "0.07005122",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914848308,
+  "tid": "8198242",
+  "amount": "0.06162015",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914839721,
+  "tid": "8198241",
+  "amount": "0.01627468",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914839676,
+  "tid": "8198240",
+  "amount": "0.00371195",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914839614,
+  "tid": "8198239",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914839458,
+  "tid": "8198238",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914837968,
+  "tid": "8198237",
+  "amount": "0.06529216",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914823994,
+  "tid": "8198236",
+  "amount": "0.55938795",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914814924,
+  "tid": "8198235",
+  "amount": "0.1221527",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914814436,
+  "tid": "8198234",
+  "amount": "0.0333",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914814375,
+  "tid": "8198233",
+  "amount": "0.02973248",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914814333,
+  "tid": "8198232",
+  "amount": "0.00277777",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914814267,
+  "tid": "8198231",
+  "amount": "0.18728975",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914813072,
+  "tid": "8198230",
+  "amount": "0.956",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914811189,
+  "tid": "8198229",
+  "amount": "0.0932",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914806319,
+  "tid": "8198228",
+  "amount": "0.41248663",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914806285,
+  "tid": "8198227",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914803022,
+  "tid": "8198226",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914802982,
+  "tid": "8198225",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914793371,
+  "tid": "8198224",
+  "amount": "0.0908",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914789451,
+  "tid": "8198223",
+  "amount": "0.90918663",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914789417,
+  "tid": "8198222",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914789372,
+  "tid": "8198221",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914735128,
+  "tid": "8198220",
+  "amount": "0.17836771",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914659766,
+  "tid": "8198219",
+  "amount": "0.35102362",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914659714,
+  "tid": "8198218",
+  "amount": "0.33318009",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914659654,
+  "tid": "8198217",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914659591,
+  "tid": "8198216",
+  "amount": "0.00129629",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914659549,
+  "tid": "8198215",
+  "amount": "0.0015",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914659182,
+  "tid": "8198214",
+  "amount": "0.00002123",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914654732,
+  "tid": "8198213",
+  "amount": "0.926",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914649385,
+  "tid": "8198212",
+  "amount": "0.95400723",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914649345,
+  "tid": "8198211",
+  "amount": "0.00180375",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914649303,
+  "tid": "8198210",
+  "amount": "0.00018902",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914643889,
+  "tid": "8198209",
+  "amount": "0.36698557",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914643849,
+  "tid": "8198208",
+  "amount": "0.00001443",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914641423,
+  "tid": "8198207",
+  "amount": "0.01689405",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914641391,
+  "tid": "8198206",
+  "amount": "0.23440595",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914641186,
+  "tid": "8198205",
+  "amount": "0.06118663",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914641151,
+  "tid": "8198204",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914636362,
+  "tid": "8198203",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914574650,
+  "tid": "8198202",
+  "amount": "0.95521649",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914574611,
+  "tid": "8198201",
+  "amount": "0.00077014",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914574571,
+  "tid": "8198200",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914563926,
+  "tid": "8198199",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914548826,
+  "tid": "8198198",
+  "amount": "0.08338474",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914548791,
+  "tid": "8198197",
+  "amount": "0.0025",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914548754,
+  "tid": "8198196",
+  "amount": "0.00011526",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914543348,
+  "tid": "8198195",
+  "amount": "0.699",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914535057,
+  "tid": "8198194",
+  "amount": "0.95598663",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914535023,
+  "tid": "8198193",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914534372,
+  "tid": "8198192",
+  "amount": "0.0002662",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914534346,
+  "tid": "8198191",
+  "amount": "0.154",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914518172,
+  "tid": "8198190",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914508358,
+  "tid": "8198189",
+  "amount": "0.0095728",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914508329,
+  "tid": "8198188",
+  "amount": "0.0104272",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914332553,
+  "tid": "8198187",
+  "amount": "0.026949076206200697",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914332522,
+  "tid": "8198186",
+  "amount": "0.00001849",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914321341,
+  "tid": "8198185",
+  "amount": "0.005901",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914310241,
+  "tid": "8198184",
+  "amount": "0.00138365",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914255102,
+  "tid": "8198183",
+  "amount": "0.979859931048951049",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914255073,
+  "tid": "8198182",
+  "amount": "0.000126698951048951",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914255044,
+  "tid": "8198181",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914249344,
+  "tid": "8198180",
+  "amount": "0.2284507",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914227145,
+  "tid": "8198179",
+  "amount": "0.22822565",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914212492,
+  "tid": "8198178",
+  "amount": "0.00125912",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914212456,
+  "tid": "8198177",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914206148,
+  "tid": "8198176",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914157615,
+  "tid": "8198175",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914147337,
+  "tid": "8198174",
+  "amount": "0.000848951048951049",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914117668,
+  "tid": "8198173",
+  "amount": "0.048951048951048951",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914116637,
+  "tid": "8198172",
+  "amount": "0.07751641",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914116582,
+  "tid": "8198171",
+  "amount": "0.00008359",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914105142,
+  "tid": "8198170",
+  "amount": "0.25773742",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914102848,
+  "tid": "8198169",
+  "amount": "1.0680378",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914102822,
+  "tid": "8198168",
+  "amount": "1.0448",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914102795,
+  "tid": "8198167",
+  "amount": "0.2123",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637914100199,
+  "tid": "8198166",
+  "amount": "0.11264992",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914100019,
+  "tid": "8198165",
+  "amount": "0.956",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914098207,
+  "tid": "8198164",
+  "amount": "0.03078663",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914098176,
+  "tid": "8198163",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914089596,
+  "tid": "8198162",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914068190,
+  "tid": "8198161",
+  "amount": "0.0018",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914014391,
+  "tid": "8198160",
+  "amount": "0.00004199",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914014169,
+  "tid": "8198159",
+  "amount": "0.01997138",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914014139,
+  "tid": "8198158",
+  "amount": "0.07684422",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914014111,
+  "tid": "8198157",
+  "amount": "2.5672844",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914009514,
+  "tid": "8198156",
+  "amount": "2.4327156",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914009484,
+  "tid": "8198155",
+  "amount": "0.0012844",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914009448,
+  "tid": "8198154",
+  "amount": "1.229",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637914000997,
+  "tid": "8198153",
+  "amount": "0.121",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913996462,
+  "tid": "8198152",
+  "amount": "0.00002981",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913995909,
+  "tid": "8198151",
+  "amount": "0.056",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913995561,
+  "tid": "8198150",
+  "amount": "0.056",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913994996,
+  "tid": "8198149",
+  "amount": "0.0186857",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913994959,
+  "tid": "8198148",
+  "amount": "0.0013143",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913954329,
+  "tid": "8198147",
+  "amount": "0.00785328",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913954298,
+  "tid": "8198146",
+  "amount": "0.00916758",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913954269,
+  "tid": "8198145",
+  "amount": "0.00000827",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913954235,
+  "tid": "8198144",
+  "amount": "0.00127087",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913951171,
+  "tid": "8198143",
+  "amount": "0.00108663",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913951141,
+  "tid": "8198142",
+  "amount": "0.00001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913949339,
+  "tid": "8198141",
+  "amount": "0.005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913949072,
+  "tid": "8198140",
+  "amount": "0.005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913948746,
+  "tid": "8198139",
+  "amount": "0.01",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913891792,
+  "tid": "8198138",
+  "amount": "0.0025",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913891453,
+  "tid": "8198137",
+  "amount": "0.0025",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913890544,
+  "tid": "8198136",
+  "amount": "0.005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913887847,
+  "tid": "8198135",
+  "amount": "0.01",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913883187,
+  "tid": "8198134",
+  "amount": "0.005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913840251,
+  "tid": "8198133",
+  "amount": "0.01",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913797242,
+  "tid": "8198132",
+  "amount": "0.0023",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913787049,
+  "tid": "8198131",
+  "amount": "0.0045",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913774279,
+  "tid": "8198130",
+  "amount": "0.05331337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913774245,
+  "tid": "8198129",
+  "amount": "0.00588663",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913770634,
+  "tid": "8198128",
+  "amount": "0.0333",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913770590,
+  "tid": "8198127",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913765334,
+  "tid": "8198126",
+  "amount": "0.0034",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913586683,
+  "tid": "8198125",
+  "amount": "0.13",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913538679,
+  "tid": "8198124",
+  "amount": "0.03299672",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913517058,
+  "tid": "8198123",
+  "amount": "0.03294866",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913340172,
+  "tid": "8198122",
+  "amount": "1.286589678357259677",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913340133,
+  "tid": "8198121",
+  "amount": "1",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913191293,
+  "tid": "8198120",
+  "amount": "0.07736021",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913162676,
+  "tid": "8198119",
+  "amount": "0.0341",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913157488,
+  "tid": "8198118",
+  "amount": "0.665095670796428571",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157456,
+  "tid": "8198117",
+  "amount": "0.00359324",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157427,
+  "tid": "8198116",
+  "amount": "0.09147122",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157392,
+  "tid": "8198115",
+  "amount": "0.00172085",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157362,
+  "tid": "8198114",
+  "amount": "0.00199534",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157327,
+  "tid": "8198113",
+  "amount": "0.12544786",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157294,
+  "tid": "8198112",
+  "amount": "0.04437777",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157264,
+  "tid": "8198111",
+  "amount": "0.00007994",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157229,
+  "tid": "8198110",
+  "amount": "0.007043518770595691",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157201,
+  "tid": "8198109",
+  "amount": "0.077",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157170,
+  "tid": "8198108",
+  "amount": "1",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157143,
+  "tid": "8198107",
+  "amount": "0.002",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157114,
+  "tid": "8198106",
+  "amount": "0.2391937",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913157087,
+  "tid": "8198105",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637913116253,
+  "tid": "8198104",
+  "amount": "0.1747",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913114798,
+  "tid": "8198103",
+  "amount": "0.16604834",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913114766,
+  "tid": "8198102",
+  "amount": "0.00865166",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913113243,
+  "tid": "8198101",
+  "amount": "0.1747",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637913106933,
+  "tid": "8198100",
+  "amount": "0.18325087",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912982174,
+  "tid": "8198099",
+  "amount": "0.01302598",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912958750,
+  "tid": "8198098",
+  "amount": "0.19260059",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912958174,
+  "tid": "8198097",
+  "amount": "0.38581066",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912954913,
+  "tid": "8198096",
+  "amount": "0.01201042",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912943839,
+  "tid": "8198095",
+  "amount": "0.00499762",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912908387,
+  "tid": "8198094",
+  "amount": "0.01662549",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912908355,
+  "tid": "8198093",
+  "amount": "0.02001337",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912908325,
+  "tid": "8198092",
+  "amount": "0.08563188",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912908058,
+  "tid": "8198091",
+  "amount": "0.182",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912908013,
+  "tid": "8198090",
+  "amount": "0.077",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912907932,
+  "tid": "8198089",
+  "amount": "0.1828",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912907524,
+  "tid": "8198088",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912866361,
+  "tid": "8198087",
+  "amount": "0.08675974",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912866339,
+  "tid": "8198086",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912865164,
+  "tid": "8198085",
+  "amount": "0.0740337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912865139,
+  "tid": "8198084",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912628200,
+  "tid": "8198083",
+  "amount": "0.54390174",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912628169,
+  "tid": "8198082",
+  "amount": "0.1378",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912628141,
+  "tid": "8198081",
+  "amount": "0.01829826",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912574133,
+  "tid": "8198080",
+  "amount": "0.1144",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912572703,
+  "tid": "8198079",
+  "amount": "0.00350071",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912572117,
+  "tid": "8198078",
+  "amount": "0.00350071",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912570893,
+  "tid": "8198077",
+  "amount": "0.00350071",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912570430,
+  "tid": "8198076",
+  "amount": "0.01825817",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912565208,
+  "tid": "8198075",
+  "amount": "0.05",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912565179,
+  "tid": "8198074",
+  "amount": "3.1",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912565149,
+  "tid": "8198073",
+  "amount": "0.029",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912547737,
+  "tid": "8198072",
+  "amount": "0.00001517",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912532221,
+  "tid": "8198071",
+  "amount": "0.1824",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912515033,
+  "tid": "8198070",
+  "amount": "0.057226470052794466",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912506354,
+  "tid": "8198069",
+  "amount": "0.005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912487744,
+  "tid": "8198068",
+  "amount": "0.005",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912476401,
+  "tid": "8198067",
+  "amount": "0.01821819",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912476372,
+  "tid": "8198066",
+  "amount": "0.01818181",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912444716,
+  "tid": "8198065",
+  "amount": "0.024219391229404309",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912444672,
+  "tid": "8198064",
+  "amount": "0.02001337",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912444639,
+  "tid": "8198063",
+  "amount": "0.0016",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912444604,
+  "tid": "8198062",
+  "amount": "0.01115752",
+  "type": "buy"
+ },
+ {
+  "timestamp": 1637912438601,
+  "tid": "8198061",
+  "amount": "0.17245511",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912438565,
+  "tid": "8198060",
+  "amount": "0.00004489",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912412766,
+  "tid": "8198059",
+  "amount": "0.0012",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912401658,
+  "tid": "8198058",
+  "amount": "0.00002177",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359735,
+  "tid": "8198057",
+  "amount": "0.18179641",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359707,
+  "tid": "8198056",
+  "amount": "0.002",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359675,
+  "tid": "8198055",
+  "amount": "0.01818181",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359633,
+  "tid": "8198054",
+  "amount": "0.00090927",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359599,
+  "tid": "8198053",
+  "amount": "0.41590709",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359570,
+  "tid": "8198052",
+  "amount": "0.32712218",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359542,
+  "tid": "8198051",
+  "amount": "0.02727272",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359513,
+  "tid": "8198050",
+  "amount": "0.01818181",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359486,
+  "tid": "8198049",
+  "amount": "0.02",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359459,
+  "tid": "8198048",
+  "amount": "0.05",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359428,
+  "tid": "8198047",
+  "amount": "0.00090927",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912359399,
+  "tid": "8198046",
+  "amount": "0.00001944",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912350338,
+  "tid": "8198045",
+  "amount": "0.1878",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912338375,
+  "tid": "8198044",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912338039,
+  "tid": "8198043",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912335233,
+  "tid": "8198042",
+  "amount": "0.2263",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912335071,
+  "tid": "8198041",
+  "amount": "0.05549023",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912335045,
+  "tid": "8198040",
+  "amount": "0.02122309",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912334459,
+  "tid": "8198039",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912333837,
+  "tid": "8198038",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912333239,
+  "tid": "8198037",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912332926,
+  "tid": "8198036",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912331443,
+  "tid": "8198035",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912330854,
+  "tid": "8198034",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912330069,
+  "tid": "8198033",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912329719,
+  "tid": "8198032",
+  "amount": "0.07605762",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912329687,
+  "tid": "8198031",
+  "amount": "0.0006557",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912329079,
+  "tid": "8198030",
+  "amount": "0.02974771",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912329050,
+  "tid": "8198029",
+  "amount": "0.04696561",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912328744,
+  "tid": "8198028",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912317337,
+  "tid": "8198027",
+  "amount": "0.45582476",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912316552,
+  "tid": "8198026",
+  "amount": "0.1064",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912316455,
+  "tid": "8198025",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912315849,
+  "tid": "8198024",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912313584,
+  "tid": "8198023",
+  "amount": "1.0193",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912313515,
+  "tid": "8198022",
+  "amount": "0.07671332",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912305338,
+  "tid": "8198021",
+  "amount": "0.0471",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912226201,
+  "tid": "8198020",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912225664,
+  "tid": "8198019",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912225246,
+  "tid": "8198018",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912224673,
+  "tid": "8198017",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912224355,
+  "tid": "8198016",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912223947,
+  "tid": "8198015",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912223443,
+  "tid": "8198014",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912222857,
+  "tid": "8198013",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912222296,
+  "tid": "8198012",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912221939,
+  "tid": "8198011",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912221353,
+  "tid": "8198010",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912220768,
+  "tid": "8198009",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912220440,
+  "tid": "8198008",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912219862,
+  "tid": "8198007",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912219247,
+  "tid": "8198006",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912218642,
+  "tid": "8198005",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912218337,
+  "tid": "8198004",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912217739,
+  "tid": "8198003",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912217442,
+  "tid": "8198002",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912216883,
+  "tid": "8198001",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912216552,
+  "tid": "8198000",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912215697,
+  "tid": "8197999",
+  "amount": "0.0354",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912214139,
+  "tid": "8197998",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912213616,
+  "tid": "8197997",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912213315,
+  "tid": "8197996",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912212935,
+  "tid": "8197995",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912212337,
+  "tid": "8197994",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912211758,
+  "tid": "8197993",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912211139,
+  "tid": "8197992",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912210598,
+  "tid": "8197991",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912210278,
+  "tid": "8197990",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912209731,
+  "tid": "8197989",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912187447,
+  "tid": "8197988",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912186840,
+  "tid": "8197987",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912186241,
+  "tid": "8197986",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912185741,
+  "tid": "8197985",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912185406,
+  "tid": "8197984",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912179363,
+  "tid": "8197983",
+  "amount": "0.0676",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912163509,
+  "tid": "8197982",
+  "amount": "0.0767",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912163170,
+  "tid": "8197981",
+  "amount": "0.07665635",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912163144,
+  "tid": "8197980",
+  "amount": "0.00004365",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912152039,
+  "tid": "8197979",
+  "amount": "0.0027",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912151449,
+  "tid": "8197978",
+  "amount": "0.0027",
+  "type": "sell"
+ },
+ {
+  "timestamp": 1637912112435,
+  "tid": "8197977",
+  "amount": "0.02281113",
+  "type": "buy"
+ }
+]

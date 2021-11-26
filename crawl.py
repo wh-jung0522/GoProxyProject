@@ -7,7 +7,7 @@ class PulbicAPI():
     def __init__(self) -> None:
         pass
 
-    def korbit_get_ticker(currency='ETH'):
+    def korbit_get_ticker(self,currency='ETH'):
         currency_pair = currency.lower()+"_krw"
         req_url = KorbitAPIURL + '/ticker?currency_pair={}'.format(currency_pair)
         res = requests.get(req_url)
@@ -15,7 +15,7 @@ class PulbicAPI():
         print(res_dict)
         return res_dict
 
-    def korbit_get_detailed_ticker(currency='ETH'):
+    def korbit_get_detailed_ticker(self,currency='ETH'):
         currency_pair = currency.lower()+"_krw"
         req_url = KorbitAPIURL + '/ticker/detailed?currency_pair={}'.format(currency_pair)
         res = requests.get(req_url)
@@ -23,14 +23,14 @@ class PulbicAPI():
         print(res_dict)
         return res_dict
 
-    def korbit_get_detailed_ticker_all():
+    def korbit_get_detailed_ticker_all(self):
         req_url = KorbitAPIURL + '/ticker/detailed/all'
         res = requests.get(req_url)
         res_dict = json.loads(res.text)
         print(res_dict)
         return res_dict
 
-    def korbit_get_orderbook(currency='ETH'):
+    def korbit_get_orderbook(self,currency='ETH'):
         currency_pair = currency.lower()+"_krw"
         req_url = KorbitAPIURL + '/orderbook?currency_pair={}'.format(currency_pair)
         res = requests.get(req_url)
@@ -38,7 +38,7 @@ class PulbicAPI():
         print(res_dict)
         return res_dict
 
-    def korbit_get_transactions(currency='ETH'):
+    def korbit_get_transactions(self,currency='ETH'):
         currency_pair = currency.lower() + "_krw"
         req_url = KorbitAPIURL + '/transactions?currency_pair={}'.format(currency_pair)
         res = requests.get(req_url)
@@ -50,7 +50,7 @@ class PulbicAPI():
 
 
 class PrivateAPI():
-    def __init__(self) -> None:
+    def __init__(self,seed_money:int) -> None:
         korbit_public_API = PulbicAPI()
         coin_wallet_template = {
             "available" : "{1:8f}".format(float(0)),
@@ -64,7 +64,7 @@ class PrivateAPI():
         }
         wallet = {
             "krw" : {
-                "available":str(int(1e7)),
+                "available":str(seed_money),
                 "trade_in_use":"0",
                 "withdrawal_in_use" : "0"
             }
@@ -74,6 +74,40 @@ class PrivateAPI():
             "withdrawal": {}
         }
         pass
-
+    ##
     def korbit_get_user_balance():
         pass
+    def korbit_get_user_accouts():
+        pass
+    def korbit_get_user_volume():
+        pass
+    ##
+    def korbit_post_user_buy():
+        pass
+    def korbit_post_user_sell():
+        pass
+    def korbit_post_user_cancel():
+        pass
+    def korbit_get_user_open():
+        pass
+    def korbit_get_user_orders():
+        pass
+    def korbit_get_user_transactions():
+        pass
+    ##
+    def korbit_post_user_coin_out():
+        pass
+    def korbit_post_user_coin_out_cancel():
+        pass
+    def korbit_get_user_transfer():
+        pass
+    def korbit_get_user_coin_status():
+        pass
+    def korbit_post_user_coin_address_assign():
+        pass
+
+
+if __name__ == "__main__":
+    pub_api = PulbicAPI()
+    res_dict = pub_api.korbit_get_detailed_ticker(currency='ETH')
+    print(0)

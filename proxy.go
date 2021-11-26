@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"log"
+	"net/http"
+	"proxy/protocol"
+)
 
 func main() {
-	fmt.Println("H W!")
+	http.HandleFunc("/", protocol.ApiHandler)
+	log.Fatal(http.ListenAndServe(":8887", nil))
 }
