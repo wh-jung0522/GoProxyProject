@@ -175,7 +175,7 @@ const (
 	TICKER_DETAIL_ALL
 	ORDERBOOK
 	TRANSACTION
-	/* Additional Mode Candle Stick */
+	/* Additional Mode CandleStick */
 	CANDLESTICK
 	/* Private Mode */
 )
@@ -221,8 +221,8 @@ func ApiHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	/* convCandleQuery
-	Korbit Type : "http://localhost:8887/candles/minutes/1?currency_pair=eth_krw&to=2021-11-01T00%3A00%3A00&count=200"
-	Upbit Type : ""https://api.upbit.com/v1/candles/minutes/200?market=KRW-BTC&to=2021-11-01%2000%3A00%3A00&count=200"
+	Korbit Type : "http://localhost:8887/candles/minutes/1?currency_pair=eth_krw&to=2021-11-01T00%3A00%3A00Z&count=200"
+	Upbit Type : ""https://api.upbit.com/v1/candles/minutes/200?market=KRW-BTC&to=2021-11-01%2000%3A00%3A00Z&count=200"
 	*/
 	convCandleQuery := func(raw_query string) string {
 		var converted string
